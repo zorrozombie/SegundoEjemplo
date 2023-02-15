@@ -1,0 +1,16 @@
+table{
+    border: 1px ;
+    color: #000000;
+}
+#cambia td:nth-child(odd){
+    background: #80ff80;
+}
+#cambia td:nth-child(even){
+    background: #008000;
+}
+#cabeza td:nth-child(odd){
+    background: #ff8080;
+}
+#cabeza td:nth-child(even){
+    background: #800000;
+}
